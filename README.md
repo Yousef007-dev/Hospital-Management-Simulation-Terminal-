@@ -25,7 +25,7 @@ A comprehensive terminal-based hospital management system developed in Java, fea
 
 ## Class Structure
 
-```mermaid
+
 classDiagram
     Patient <|-- InPatient
     Patient <|-- OutPatient
