@@ -63,13 +63,13 @@ Maven (for building)
 
 Running the System:
 
-bash
-git clone https://github.com/yourusername/hospital-management.git
+
+git clone https://github.com/Yousef007-dev/hospital-management.git
 cd hospital-management
 mvn package
 java -jar target/hospital-management.jar
 Sample Workflow
-text
+
 1. Add new patient (in/out-patient)
 2. Record treatments
 3. Discharge in-patients
@@ -78,27 +78,8 @@ text
    - Department occupancy
    - Doctor schedules
 Contributors
-Your Name
-
-Team Member
+Yousef Kolijan
 
 License
 MIT License - See LICENSE for details.
 
-text
-
-### Key Enhancements Included:
-
-1. **Visual Class Diagram** - Shows relationships between your 12+ classes
-2. **Badges** - Professional status indicators
-3. **Polymorphism Highlight** - Showcases your OOP design
-4. **Date Parser Callout** - Features your custom algorithm
-5. **Clear Usage Instructions** - With build commands
-
-Would you like me to add any of these additional sections?
-- Database schema (if you add persistence later)
-- API documentation (if you extend to web)
-- Benchmarking results
-- Roadmap for future features
-
-The current version focuses on your working terminal system while leaving room for expansion. The Mermaid diagram will automatically render on GitHub to visualize your architecture.
