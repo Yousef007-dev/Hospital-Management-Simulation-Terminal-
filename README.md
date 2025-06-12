@@ -63,7 +63,7 @@ Maven (for building)
 Running the System:
 
 
-git clone https://github.com/Yousef007-dev/hospital-management.git
+git clone https://github.com/Yousef007-dev/Hospital-Management-Simulation-Terminal-.git
 cd hospital-management
 mvn package
 java -jar target/hospital-management.jar
